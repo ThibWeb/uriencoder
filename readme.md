@@ -1,3 +1,7 @@
-# URIEncoder #
+# URIEncoder
 
-A really simple Dashboard widget which encodes / decodes URIs.
+> A simple OSX Dashboard widget which does URI encoding and decoding.
+
+## Install
+
+The widget's entry point is [main.html](URIEncoder.dcproj/project/widget.wdgt/main.html).
