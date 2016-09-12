@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Untitled</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.ThibWeb.widget.URIEncoder</string>
+	<string>com.thibaudcolas.widget.URIEncoder</string>
 	<key>CFBundleName</key>
 	<string>Untitled</string>
 	<key>CFBundleShortVersionString</key>
